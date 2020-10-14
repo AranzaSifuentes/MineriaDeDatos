@@ -8,3 +8,5 @@
 [Resumen 1 (Técnicas)](https://github.com/AranzaSifuentes/MineriaDeDatos/blob/master/Resumen_Tecnicas_1887979.pdf)
 
 [Mapa mental 2](https://github.com/AranzaSifuentes/MineriaDeDatos/blob/master/MapaMental_2_1887979.pdf)
+
+[Analisis base de datos](https://github.com/AranzaSifuentes/MineriaDeDatos/blob/master/AnalisisBD_1887979.pdf)
