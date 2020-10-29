@@ -12,3 +12,5 @@
 [Analisis base de datos](https://github.com/AranzaSifuentes/MineriaDeDatos/blob/master/AnalisisBD_1887979.pdf)
 
 [Ejercicios basicos phyton](https://github.com/AranzaSifuentes/MineriaDeDatos/blob/master/phytonbasico_1887979.ipynb)
+
+[Avance 1 de PIA](https://github.com/gab2520/mineria_de_datos/blob/master/Avance1-PIA_Equipo12_002.pdf)
