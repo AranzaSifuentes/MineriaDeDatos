@@ -18,3 +18,5 @@
 [Preparación y limpieza de datos](https://github.com/gab2520/mineria_de_datos/blob/master/preparacion%20de%20datos%20accidentes.ipynb)
 
 [Visualizacion de datos](https://github.com/gab2520/mineria_de_datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20accidentes.ipynb)
+
+[Segundo avance PIA](https://github.com/gab2520/mineria_de_datos/blob/master/AvancePIA_II_002_12.ipynb)
